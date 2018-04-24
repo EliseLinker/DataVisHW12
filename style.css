@@ -1,0 +1,48 @@
+#summary-box {
+  background-color: whitesmoke;
+}
+#summary-title{
+  color: teal;
+  text-align: center;
+  font-size: 28px;
+}
+#side-title{
+  color: teal;
+  text-align: center;
+  font-size: 20px;
+  font-style: bold;
+}
+#selected-border{
+  border-color: teal;
+  border-width: 50px;
+}
+.teal {
+  background: teal;
+}
+
+.skyblue {
+  background: deepskyblue;
+}
+
+.purple {
+  background: rebeccapurple;
+}
+
+.red {
+  background: indianred;
+}
+h3{
+  color: teal;
+}
+.jumbotron {
+  margin-bottom: 30px;
+  color: inherit;
+  background-color: white;
+}
+.navbar-default .navbar-brand {
+  color: white;
+  background-color: teal;
+}
+#page-color {
+  background-color:lightgrey:
+}
